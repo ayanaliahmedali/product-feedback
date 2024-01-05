@@ -1,0 +1,291 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background-color: rgb(230, 235, 240);
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+
+  header {
+    background-image: url(./assets/suggestions/desktop/background-header.png);
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    padding: 33px;
+    font-size: 13px;
+    padding-top: 57px;
+    color: white;
+    padding-left: 12px;
+}
+
+  .container {
+    display: flex;
+    margin: 1%;
+  }
+
+  .box-1 {
+    background-color: #fff;
+    width: 59%;
+    padding: 16px;
+    border-radius: 9px;
+    margin-top: 14px;
+}
+
+
+.btn {
+  padding: 12%;
+}
+
+button.one {
+  background: blue;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 12px 22px;
+  margin-left: -34px;
+}
+
+button.two {
+  background: rgb(223, 230, 236);
+  color: blue;
+  border: none;
+  border-radius: 10px;
+  padding: 12px 22px;
+  margin-left: 10px;
+}
+
+button.three {
+  background: rgb(223, 230, 236);
+  color: blue;
+  border: none;
+  border-radius: 10px;
+  padding: 12px 22px;
+  margin-left: 10px;
+}
+
+button.four {
+  background: rgb(223, 230, 236);
+  color: blue;
+  border: none;
+  border-radius: 10px;
+  padding: 12px 22px;
+  margin-left: -32px;
+  margin-top: 15px;
+  width: 70%;
+}
+
+button.five {
+  background: rgb(223, 230, 236);
+  color: blue;
+  border: none;
+  border-radius: 10px;
+  padding: 12px 22px;
+  margin-left: 10px;
+}
+
+button.six {
+  background: rgb(223, 230, 236);
+  color: blue;
+  border: none;
+  border-radius: 10px;
+  padding: 12px 22px;
+  margin-left: -33px;
+  margin-top: 13px;
+}
+
+.Roadmap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.box-2 {
+  background: white;
+  margin-top: 20px;
+  border-radius: 9px;
+  padding: 15px;
+  width: 60%;
+}
+
+li {
+  margin-top: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: rgb(122, 124, 126);
+}
+
+.box-3 {
+  display: flex;
+  align-items: center;
+  background: rgb(49, 49, 95);
+  color: white;
+  padding: 19px;
+  justify-content: space-between;
+  margin-left: -150px;
+  border-radius: 10px;
+}
+
+.button button {
+  background: purple;
+  border: none;
+  color: white;
+  padding: 12px;
+  border-radius: 10px;
+  font-weight: 600;
+}
+
+img.icon-arrow-down {
+  margin-left: -85px;
+}
+
+.box-4 {
+  background: white;
+  margin-top: 25px;
+  margin-left: -149px;
+  border-radius: 10px;
+  padding: 12px;
+}
+
+.box-4 h3 {
+  padding-left: 56px;
+}
+
+
+.para {
+  padding-left: 56px;
+  color: rgb(122, 124, 126);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+button.Enhancement {
+  margin-left: 56px;
+  background-color: rgb(223, 230, 236);
+  color: rgb(64, 64, 222);
+  padding: 10px 26px;
+  border-radius: 10px;
+  border: none;
+  margin-top: 12px;
+}
+
+.icon-arrow {
+  background: rgb(223, 230, 236);
+  width: 5%;
+  border-radius: 10px;
+  padding: 5px;
+  text-align: center;
+}
+
+.box-5 {
+  background: white;
+  margin-top: 25px;
+  margin-left: -149px;
+  border-radius: 10px;
+  padding: 12px;
+}
+
+.box-5 h3 {
+  padding-left: 56px;
+}
+
+button.features {
+  margin-left: 56px;
+  background-color: rgb(223, 230, 236);
+  color: rgb(64, 64, 222);
+  padding: 10px 26px;
+  border-radius: 10px;
+  border: none;
+  margin-top: 12px;
+}
+
+.box-6 {
+  background: white;
+  margin-top: 25px;
+  margin-left: -149px;
+  border-radius: 10px;
+  padding: 12px;
+}
+
+.box-6 h3 {
+  padding-left: 56px;
+}
+
+button.features {
+  margin-left: 56px;
+  background-color: rgb(223, 230, 236);
+  color: rgb(64, 64, 222);
+  padding: 10px 26px;
+  border-radius: 10px;
+  border: none;
+  margin-top: 12px;
+}
+
+
+.box-7 {
+  background: white;
+  margin-top: 25px;
+  margin-left: -149px;
+  border-radius: 10px;
+  padding: 12px;
+}
+
+.box-7 h3 {
+  padding-left: 56px;
+}
+
+button.Enhancement {
+  margin-left: 56px;
+  background-color: rgb(223, 230, 236);
+  color: rgb(64, 64, 222);
+  padding: 10px 26px;
+  border-radius: 10px;
+  border: none;
+  margin-top: 12px;
+}
+
+.box-8 {
+  background: white;
+  margin-top: 25px;
+  margin-left: -149px;
+  border-radius: 10px;
+  padding: 12px;
+}
+
+.box-8 h3 {
+  padding-left: 56px;
+}
+
+button.features {
+  margin-left: 56px;
+  background-color: rgb(223, 230, 236);
+  color: rgb(64, 64, 222);
+  padding: 10px 26px;
+  border-radius: 10px;
+  border: none;
+  margin-top: 12px;
+}
+
+.box-9 {
+  background: white;
+  margin-top: 25px;
+  margin-left: -149px;
+  border-radius: 10px;
+  padding: 12px;
+}
+
+.box-9 h3 {
+  padding-left: 56px;
+}
+
+button.bug {
+  margin-left: 56px;
+  background-color: rgb(223, 230, 236);
+  color: rgb(64, 64, 222);
+  padding: 10px 26px;
+  border-radius: 10px;
+  border: none;
+  margin-top: 12px;
+}
